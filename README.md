@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" width="250"/>
   <div id="badges">
-    <a href="linkedin.com/in/dyrg7">
+    <a href="https://www.linkedin.com/in/dyrg7/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://twitter.com/DYRG_7">
