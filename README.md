@@ -44,7 +44,7 @@ Other Skills
 - Firebase
 - Flutter
 - Linux Intermedio (Ubuntu, Debian, CentOS)
-- Excel Avanzado
+- Excel
 - Android
 - Bootstrap
 - Fortinet
